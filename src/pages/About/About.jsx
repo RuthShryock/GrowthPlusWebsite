@@ -9,7 +9,7 @@ const About = () => {
             <Helmet bodyAttributes={{style: 'background-color : var(--color-yellow)'}}/>
             <Navbar></Navbar>
             <div className="about-body">
-                <br/>
+                <h2>About</h2>
                 <p>Millions of children across Africa struggle with basic math. Yet they have increasing access to smartphones at home. Our vision is to tackle this
                 need through a mobile application that empowers parents to provide their children with fundamental math skills. Our project, Growth+, is a mobile app 
                 designed to target numeracy, the ability to understand and use fundamental math skills, in Africa. While a couple educational apps have been developed 
