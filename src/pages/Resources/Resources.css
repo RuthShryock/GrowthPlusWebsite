@@ -15,7 +15,6 @@
 }
 
 .grid-container-resources {
-    border: 2px solid;
     display: grid;
     position: relative;
     justify-self: center;
