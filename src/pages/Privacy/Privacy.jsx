@@ -11,7 +11,7 @@ const Privacy = () => {
             <div className="privacy-body">
                 <h2>Privacy</h2>
                 <p>Protecting your private information is our priority. This Statement of Privacy applies to Growth+, and Growth+ and governs data collection and usage.
-                For the purposes of this Privacy Policy, unless otherwise noted, all references to Growth+ include https://arroseplus.netlify.app and the Growth+ mobile
+                For the purposes of this Privacy Policy, unless otherwise noted, all references to Growth+ include this website and the Growth+ mobile
                 application. The Growth+ application is a education application. By using the Growth+ application, you consent to the data practices described in this 
                 statement.</p>
                 <h1>Collection of your Personal Information</h1>

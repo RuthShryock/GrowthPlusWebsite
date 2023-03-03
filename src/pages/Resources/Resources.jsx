@@ -13,7 +13,7 @@ const Resources = () => {
             <Helmet bodyAttributes={{style: 'background-color : var(--color-blue)'}}/>
             <Navbar></Navbar>
             <div className="resources-body">
-                <h2>Resources</h2>
+                <div className='topHeader'>Resources</div>
                 <div className="grid-container-resources">
                     <div className="grid-child-resources" id='buttonOne'><a href='mailto:arroseplus@gmail.com' target="_blank" rel="noreferrer"><button className="iconBtn"><FontAwesomeIcon icon={faEnvelope}/></button></a></div>
                     <div className="grid-child-resources" id='buttonTwo'><a href="https://github.com/ucfcs/GrowthPlus" target="_blank" rel="noreferrer"><button className="iconBtn"><FontAwesomeIcon icon={faGithub}/></button></a></div>
