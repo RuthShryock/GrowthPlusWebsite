@@ -61,20 +61,6 @@
     padding-right: 3%;
 }
 
-.links button{
-	color: var(--color-yellow);
-	border: none;
-	cursor: pointer;
-	outline: inherit;
-    font-size: 2.3vw;
-    padding-left: 3%;
-    padding-right: 3%;
-}
-
-#victor button:hover{
-    color: var(--color-dark-green); 
-}
-
 #ruth {
     background-color: var(--color-yellow);
     color: var(--color-blue);
@@ -164,8 +150,4 @@
         padding-right: 3%;
     }
 
-    .links button{
-        font-size: 7vw;
-    }
-    
 } 

@@ -28,8 +28,8 @@ const Team = () => {
                         <h2 id="victor">Victor Yue</h2>
                         <h3 id="victor">frontend developer</h3>
                         <div className="links">
-                            <a href='https://github.com/VictorYue' target="_blank" rel="noreferrer" id="victor"><FontAwesomeIcon icon={faGithub}/></a>
-                            <button id="victor"><FontAwesomeIcon icon={faLinkedinIn}/></button>
+                            <a href='https://github.com/VictorYue'target="_blank" rel="noreferrer" id="victor"><FontAwesomeIcon icon={faGithub}/></a>
+                            <a href='https://www.linkedin.com/in/victor-yue-269021134/' target="_blank" rel="noreferrer" id="victor"><FontAwesomeIcon icon={faLinkedinIn}/></a>
                        </div>
                     </div>
                 </div>
