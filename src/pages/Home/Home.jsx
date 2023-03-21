@@ -21,6 +21,8 @@ const Home = () => {
                         <div className="grid-child"><img src="/elephant.png" alt="elephant"></img></div>
                     </div>
                 </div>
+                <div className="googleBtn"><a class="btn btn-google" href="https://play.google.com/store/apps/details?id=com.GrowthPlus&pli=1" 
+                title="Google Play" target="_blank" rel="noreferrer">Google Play</a></div>
             </div>
         </div>   
     )

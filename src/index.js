@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Resources from "./pages/Resources/Resources";
 import reportWebVitals from './reportWebVitals';
 import Privacy from "./pages/Privacy/Privacy";
+import Donate from "./pages/Donate/Donate";
 import ReactDOM from 'react-dom/client';
 import About from "./pages/About/About";
 import Team from "./pages/Team/Team";
@@ -20,6 +21,7 @@ root.render(
       <Route path="/privacy" element={<Privacy/>}/>
       <Route path="/resources" element={<Resources/>}/>
       <Route path="/team" element={<Team/>}/>
+      <Route path="/donate" element={<Donate/>}/>
     </Routes>
   </BrowserRouter>,
   document.getElementById("root")

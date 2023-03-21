@@ -37,6 +37,9 @@ export default function Navbar() {
           <li>
             <a href="/resources">resources</a>
           </li>
+          <li>
+            <a href="/donate">donate</a>
+          </li>
         </ul>
       </div>
     </nav>
