@@ -84,7 +84,7 @@
 
 @keyframes load {
     0% {width: 0;}
-    100% {width: 2.5%;}
+    100% {width: 14%;}
 }
 
 @media screen and (max-width: 600px){
