@@ -30,7 +30,7 @@ const Donate = () => {
                             <div className="progress">
                                 <div className="progress-value">
                                 </div>
-                            </div>25%
+                            </div>32%
                         </div>
                         <div className="inner-grid">
                             <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=E156518&id=106" target="_blank" rel="noreferrer"><button className="donate-btn">Give</button></a>
