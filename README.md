@@ -1,4 +1,4 @@
-# [Growth+ Website](https://arroseplus.netlify.app)
+# [Growth+ Website](https://growthplus4a.org)
 
 - developed with React
 - deployed through Netlify
