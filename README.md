@@ -1,4 +1,4 @@
-# [Growth+ Website](https://growthplus4a.org)
+# [Growth+ Website](https://growthplus4a.netlify.app)
 
 - developed with React
 - deployed through Netlify
