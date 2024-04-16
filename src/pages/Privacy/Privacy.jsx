@@ -59,9 +59,7 @@ const Privacy = () => {
                 and be bound by that Policy.</p>
                 <h1>Contact Information</h1>
                 <p>Growth+ welcomes your questions or comments regarding this Statement of Privacy. If you believe that Growth+ has not adhered to this Statement, please contact Growth+ at:</p>
-                <p id="contactInfo">Growth+<br/>7746 Lower Gateway Loop Unit 1626<br/>Orlando, Florida 32827</p>
                 <p id="contactInfo">Email Address:<br/>contactarroseplus@gmail.com</p>
-                <p id="contactInfo">Telephone number:<br/>(661) 383-7660</p>
                 <p id="privacyCenter">Effective as of March 13, 2023</p>
             </div>
         </div>   
